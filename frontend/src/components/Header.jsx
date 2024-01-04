@@ -191,6 +191,9 @@ function Header() {
               {" "}
               Menu
             </Link>
+            <Link to={"newProduct"} className="hover:text-slate-800">
+              Add Product
+            </Link>
             <Link to={"about"} className="hover:text-slate-800">
               About
             </Link>
