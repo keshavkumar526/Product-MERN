@@ -116,7 +116,7 @@ function Login() {
             </span>
           </div>
           <div className="text-xs mt-2 text-slate-500">
-            <p>Demo Account: test1@mail.com</p>
+            <p>Demo Account: kj9646331@gmail.com</p>
             <p>password: 123</p>
           </div>
 
