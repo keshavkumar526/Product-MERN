@@ -140,6 +140,8 @@ Password: 123
 
 ```
 
+## Note - `Folder Structure of both both folders are in internal readmes`
+
 ## Contributing
 
 We welcome contributions from the community. Whether it's bug fixes, feature enhancements, or documentation improvements, your help is greatly appreciated.
