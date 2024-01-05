@@ -115,8 +115,16 @@ Database is connected
   npm install
 
 ```
+3. Change the Server domain and Stripe public key in following file `frontend/src/frontEndConfig.js`
 
-1. Create a `.env` file in frontend folder and add the following:
+```
+const config = {
+  SERVER_DOMAIN: "https://product-backend-1gdg.onrender.com",
+  STRIPE_PUBLIC_KEY:"pk_test_51OUR0BSDidszZ9POAulKBfnfxJmZCGORUjfIwzUbLs58jwRu3NkC1YyDkWlCNiUKD2Crqxsl3u85TKnDQ5GTLqpp00Nn9SEEce",
+};
+
+```
+4. Create a `.env` file in frontend folder and add the following:
 
 ```bash
 VITE_APP_SERVER_DOMAIN=http://localhost:8000/
@@ -124,7 +132,7 @@ VITE_APP_STRIPE_PUBLIC_KEY=pk_test_51NwMokExTKwmYDjHR3E5upuF2LRmYQwKUjf4RwDvyh31
 
 ```
 
-1. Run the frontend with following command:
+4. Run the frontend with following command:
 
 ```bash
   npm run dev

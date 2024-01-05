@@ -1,7 +1,7 @@
 const config = {
   SERVER_DOMAIN: "https://product-backend-1gdg.onrender.com",
   STRIPE_PUBLIC_KEY:
-    "pk_test_51NwMokExTKwmYDjHR3E5upuF2LRmYQwKUjf4RwDvyh31pmwEkc40KaT0D4J0EDQigjN2NYwzoBXfNZbEGNCBSM200020myYDeF",
+    "pk_test_51OUR0BSDidszZ9POAulKBfnfxJmZCGORUjfIwzUbLs58jwRu3NkC1YyDkWlCNiUKD2Crqxsl3u85TKnDQ5GTLqpp00Nn9SEEce",
 };
 
 export default config;
